@@ -16,6 +16,15 @@
 -   confirm it is not the normal behaviour.
 -   Have a basic logical solution on how to fix it.
 
+## Debugging mindset
+
+-   there is always a logical explaination
+-   Being stuck is temperory.
+-   Know your limits. Talk with others who have more expertise.
+-   prioritize bugs based on their potential impact.
+-   Gather relevent information & indentofy clues.
+-   Trying with fresh eyes.
+
 To fix the bug, you have to narrow down the process.
 
 ## Debugging techniques [(view)](https://www.shakebugs.com/blog/app-debugging-methods/#Brute_force_method)
@@ -34,3 +43,10 @@ To fix the bug, you have to narrow down the process.
 -   Memory analyzers - Track app memory to identify memo leaks & optimize memo usage.
 -   Network analyzers - Track & analyse network traffic.
 -   Code coveraage tools - test coverage
+
+## Chrome Dev Tools
+
+-   Elements
+-   Console
+-   Source
+-   Network [(view)](https://www.youtube.com/watch?v=LBgfSwX4GDI)
